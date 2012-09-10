@@ -1,11 +1,17 @@
 # Git Ignore
+###################
 
-Compiled source #
+Compiled source   #
 ###################
 src/bin/
 
-# Packages #
+Swap Files #                      
 ############
+*.swp
+
+# Packages #
+############a
+*.bak
 *.7z
 *.dmg
 *.gz
